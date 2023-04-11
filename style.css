@@ -354,6 +354,7 @@
   .curriculo-p {
     margin-top: 2vh;
     line-height: 0.2vh;
+    font-size: 2vw;
   }
   .descricaoFlavia {
     display: flex;
