@@ -238,6 +238,7 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
+    margin-top: 0.5vw;  
   }
   
   .flavia-nav h1{
@@ -255,6 +256,8 @@
   
   .logo-insta{
     width: 3vw;
+    margin-top: 0.5vw;
+    margin-right: 0.5vw;
   }
 
  .navbar{
@@ -316,9 +319,28 @@
 }
 
 .a{
-  font-size: 1.5vw;
+  font-size: 1.2em;
+  margin-top: 0.5vw;
 }
 
 .p-footer{
   font-size: 2vw;
+}
+
+.ajuste-nav{
+  display: flex;
+  flex-direction: row;
+}
+
+
+@media (max-width: 600px) {
+  .navbar-nav {
+    align-items: center;
+    
+  }
+  .a {
+    border-bottom:solid;
+    border-color: #000;
+    border-width: 0.01vw;
+  }
 }
