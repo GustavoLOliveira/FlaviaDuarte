@@ -392,5 +392,8 @@
     height: 30%;
     margin: 5vw 0;
   }
+  .flavia-nav h2{
+    margin-left: 1.5vw;
+  }
 }
 
