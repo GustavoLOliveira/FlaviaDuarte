@@ -387,5 +387,9 @@
   .container-curriculo{
     margin: 0;
   }
+  .curriculo img {
+    width: 30%;
+    height: 30%;
+  }
 }
 
