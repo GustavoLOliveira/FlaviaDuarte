@@ -380,5 +380,9 @@
   .texto-fonte{
     font-size: 2vw
   }
+  .btn-curriculo{
+    font-size: 2vw !important;
+    padding:3vw 2vw;
+  }
 }
 
