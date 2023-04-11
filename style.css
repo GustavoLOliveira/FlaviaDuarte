@@ -395,5 +395,11 @@
   .flavia-nav h2{
     margin-left: 1.5vw;
   }
+  .navbar-toggler{
+    width: 10vw;
+    display: flex;
+    justify-content: center;
+
+  }
 }
 
