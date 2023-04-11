@@ -374,11 +374,6 @@
   .imagemFlavia{
     width: 100%;
   }
-  .imagemFlavia img {
-    height: 48vh;
-    object-fit: cover;
-    object-position: 15% 15%;
-}
   .titulo {
     font-size: 8.33vw;
   }
