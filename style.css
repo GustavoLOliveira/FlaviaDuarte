@@ -384,5 +384,8 @@
     font-size: 2vw !important;
     padding:3vw 2vw;
   }
+  .container-curriculo{
+    margin: 0;
+  }
 }
 
